@@ -1,3 +1,12 @@
+# How to use in dell-pc
+```
+module load caffe
+module load mkl
+module load pycharm
+```
+get a lena.jpg from any where.
+Then simple run ==pycharm.sh&==, you can debug it
+
 # mtcnn-caffe
 Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks.
 
